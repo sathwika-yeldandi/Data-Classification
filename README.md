@@ -17,6 +17,6 @@ This project builds a simple classification model using the Iris dataset.
    ```bash
    python data_classification.py
    ```
-   ## Output
+## Output
 
-![Project Output](images/output.png)
+![Project Output](images/Screenshot%202026-07-12%20130635.png)
